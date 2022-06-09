@@ -1,0 +1,8 @@
+﻿{
+  "Nickname": "Configurable Grass Remover",
+  "Visibility": "Visible",
+  "OneLineDescription": "Removes grass where you want it removed.",
+  "LongDeascription": "You can choose between a Whitelist or Blacklist Mode for your Worldspaces List and then keep (Blacklist) grass in the selected list and remove it everywhere else or remove (Whitelist) the grass only from your selected list.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": []  
+}
