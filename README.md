@@ -1,6 +1,6 @@
 # Configurable-Grass-Remover
 
-## Usage 
+## Use
 
 Removes grass can be configured in the settings.
 
