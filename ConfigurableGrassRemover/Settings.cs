@@ -20,7 +20,7 @@ public class Settings
     [SynthesisSettingName("WorldSpaces")]
     [SynthesisDescription("List WorldSpaces")]
     [SynthesisTooltip("List WorldSpaces")]
-    public HashSet<IFormLinkGetter<IWorldspaceGetter>> Worldspaces { get; set; } = new()
+    public HashSet<IFormLinkGetter<IWorldspaceGetter>> Worldspaces = new HashSet<IFormLinkGetter<IWorldspaceGetter>>()
     {
         Skyrim.Worldspace.Tamriel,
         Skyrim.Worldspace.EldergleamSanctuaryWorld,
